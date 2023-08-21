@@ -32,7 +32,6 @@ Em seguida, você precisa adicionar links para todos os seus perfis.
 Você pode fazer isso copiando e colando um dos blocos de link e atualizando o texto e os links.
 
 ### Modelo
-html
 
 ```
 <a href="https://instagram.com/alexhyettdev" class="block link">
@@ -88,8 +87,3 @@ Incluí logotipos para todos os sites mencionados acima na seção de cores de m
 ### Creditos ao criador
 
 - https://alexhyett.com/links
-html
-Copy code
-<div class="beacon instagram"></div>
-Imagens
-Incluí logotipos para todos os sites mencionados acima na seção de cores de mídias sociais.

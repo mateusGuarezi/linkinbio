@@ -20,7 +20,7 @@ Você pode fazer isso copiando e colando um dos blocos de link e atualizando o t
 
 html
 
-````
+```
 <a href="https://instagram.com/alexhyettdev" class="block link">
     <div class="image-float instagram">
         <div class="beacon instagram"></div>

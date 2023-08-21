@@ -70,7 +70,7 @@ a:hover {
 
 .block {
   text-align: center;
-  background-color: #2d2f39;
+  background-color: #d2d4dd;
   padding: 30px;
 }
 
@@ -105,7 +105,7 @@ a:hover {
 }
 
 .links .contactbutton {
-  background-color: #e6e8f1;
+  background-color: #2d2f39;
   color: #7f8d9e;
   border: #7f8d9e 1px solid;
   cursor: pointer;

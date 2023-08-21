@@ -33,6 +33,8 @@ ul {
   padding: 0;
 }
 
+/* background */
+
 body {
   color: #7f8d9e;
   font-size: 21px;
@@ -67,6 +69,8 @@ a:hover {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+/* quadrados funfo foto e botao */
 
 .block {
   text-align: center;
@@ -103,6 +107,8 @@ a:hover {
 .links {
   margin-top: 25px;
 }
+
+/* Botão email */
 
 .links .contactbutton {
   background-color: #2d2f39;

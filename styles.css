@@ -54,7 +54,7 @@ a {
 }
 
 a:hover {
-  color: #3273dc;
+  color: #863D3D;
 }
 
 .outer {
@@ -111,9 +111,9 @@ a:hover {
 /* Botão email */
 
 .links .contactbutton {
-  background-color: #2d2f39;
-  color: #7f8d9e;
-  border: #7f8d9e 1px solid;
+  background-color: #863D3D;
+  color: #FFC8C8;
+  border: #863D3D 1px solid;
   cursor: pointer;
   justify-content: center;
   padding-bottom: 0.5em;

@@ -42,7 +42,7 @@ body {
   line-height: 1.58;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  background-color: #191b21;
+  background-color: #863D3D;
   font-family: sans-serif;
   display: block;
 }
@@ -74,7 +74,7 @@ a:hover {
 
 .block {
   text-align: center;
-  background-color: #2d2f39;
+  background-color: #FFC8C8;
   padding: 30px;
 }
 
